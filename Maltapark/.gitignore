@@ -1,12 +1,10 @@
 .gradle
 .properties
-Project.prj
 
 bin
 
 Reports
 Plugins
-
 Libs
 Test Suites
 Data Files
@@ -24,7 +22,6 @@ build
 
 .classpath
 
-.project
 /bin/
 /Libs/
 /.settings/
