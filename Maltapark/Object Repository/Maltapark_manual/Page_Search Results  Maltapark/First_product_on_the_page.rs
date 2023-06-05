@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>First_product_on_the_page</name>
+   <tag></tag>
+   <elementGuidId>7def704a-e8ab-45fe-9f19-d8831b53dbac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.header</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;page-content-left&quot;)/div[@class=&quot;ui items listings gridview featured clearfix&quot;]/div[@class=&quot;item featured e4 e3 e2 i0&quot;]/div[@class=&quot;content&quot;]/a[@class=&quot;header&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-content-left']/div[5]/div/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5c425a1a-2dd4-4f39-9588-2fedf4798943</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header</value>
+      <webElementGuid>d3c41db9-e759-4e64-b4b1-40e61c70b612</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/item/details/8573905</value>
+      <webElementGuid>cbfd20f9-0c69-4962-9814-bb6093c3d62c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Conceptronic Firewire 4 to 4 pin cable 1.8M 6feet 6ft</value>
+      <webElementGuid>be02b107-d5b2-40fe-aa2a-9f4bf47c8304</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-content-left&quot;)/div[@class=&quot;ui items listings gridview featured clearfix&quot;]/div[@class=&quot;item featured e4 e3 e2 i0&quot;]/div[@class=&quot;content&quot;]/a[@class=&quot;header&quot;]</value>
+      <webElementGuid>cdc3f275-a8d8-49ea-ab72-43a9148d5532</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-content-left']/div[5]/div/div[2]/a</value>
+      <webElementGuid>1a42a798-4e8b-4fb6-a274-94aff3781b94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Conceptronic Firewire 4 to 4 pin cable 1.8M 6feet 6ft')]</value>
+      <webElementGuid>66d70ec6-f7c8-4b96-8e56-f96b444d6b88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[3]/following::a[3]</value>
+      <webElementGuid>d05547ae-fc25-4d4d-a6e3-b435357e1373</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[3]/following::a[3]</value>
+      <webElementGuid>2e6c9c17-e4cb-4c16-9133-227440733f2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='€ 7.00'])[1]/preceding::a[1]</value>
+      <webElementGuid>c9c3ea33-cc88-4063-b066-002cae340d72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lcd monitor'])[1]/preceding::a[3]</value>
+      <webElementGuid>9a22a844-82f6-4234-afe8-aea413a21241</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Conceptronic Firewire 4 to 4 pin cable 1.8M 6feet 6ft']/parent::*</value>
+      <webElementGuid>da64f23a-ee5e-4981-960a-c993dea56b04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/item/details/8573905')])[2]</value>
+      <webElementGuid>3af1a496-6923-4860-ba5d-e6844833e841</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/a</value>
+      <webElementGuid>879baa80-c31c-42de-b132-71736a38fa3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/item/details/8573905' and (text() = 'Conceptronic Firewire 4 to 4 pin cable 1.8M 6feet 6ft' or . = 'Conceptronic Firewire 4 to 4 pin cable 1.8M 6feet 6ft')]</value>
+      <webElementGuid>be888419-482f-4ff7-a3df-c7a9dbfe4fdc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

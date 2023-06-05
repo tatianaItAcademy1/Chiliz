@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_title only_btn btn-search</name>
+   <tag></tag>
+   <elementGuidId>1652165f-ff9a-49f4-a4c3-f98c68df66e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-search</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>aadc6add-f8f5-4230-addf-c940434ca33c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>0d5a377f-ffa8-41c2-9d4f-53ef782c4e40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-search</value>
+      <webElementGuid>3171bad7-459b-4bb2-94ec-dfb0d7411bb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;cors flexbox flexboxlegacy no-flexboxtweener&quot;]/body[1]/div[@class=&quot;topwrapper&quot;]/header[1]/div[@class=&quot;ui fluid container page-blueback clearfix&quot;]/div[@class=&quot;ui fluid restricted container page-topbar&quot;]/div[@class=&quot;page-searcharea phone-hidden&quot;]/form[1]/div[@class=&quot;search-form&quot;]/button[@class=&quot;btn btn-search&quot;]</value>
+      <webElementGuid>c14e6bed-ac99-423b-83e2-3a9c6c52ab75</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>ad810ca6-4fbb-4b0c-b258-fce0d1dc73d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='title only'])[1]/following::button[1]</value>
+      <webElementGuid>e71cbc0b-7713-4770-a02d-374a1454fe0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search By Username'])[1]/following::button[1]</value>
+      <webElementGuid>4ebaf15a-27dc-436a-9a3c-06b8468c22b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='add listing'])[1]/preceding::button[1]</value>
+      <webElementGuid>e1d3407b-cb33-4799-82e8-1a57fde77b5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sign up'])[1]/preceding::button[1]</value>
+      <webElementGuid>24a5e3ae-8605-4736-8900-909b1f32c667</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/button</value>
+      <webElementGuid>08eb5c55-29df-43b5-b346-37802b2dd77a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit']</value>
+      <webElementGuid>c5466b0d-69a4-47ca-8048-c972a2138a85</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
