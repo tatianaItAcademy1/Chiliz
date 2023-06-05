@@ -1,0 +1,66 @@
+{
+	"info": {
+		"_postman_id": "410fa9c4-9425-41e4-a285-807d9bee3606",
+		"name": "Chiliz Technical Task",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "19520540"
+	},
+	"item": [
+		{
+			"name": "GETRequest",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"var jsonData = pm.response.json();//saving response to variable jsonData\r",
+							"var countVar = jsonData.count;\r",
+							"pm.environment.set(\"countVarEnv\", countVar);//setting countVar as environment variable\r",
+							"console.log(pm.environment.get(\"countVarEnv\"));//printing value of countVarEnv to console\r",
+							"pm.environment.unset(\"countVarEnv\");//unsetting countVarEnv\r",
+							"\r",
+							"pm.test(\"count text exists in the response\", () => {\r",
+							"    var jsonData = pm.response.json();\r",
+							"    pm.expect(pm.response.text()).to.include(\"count\");\r",
+							"});\r",
+							"\r",
+							"pm.test(\"Count key value is greater than 600\", () => {\r",
+							"    pm.expect (jsonData.count).to.be.above(600);\r",
+							"});  \r",
+							"\r",
+							"pm.test(\"first object API key value is equal to AdoptAPet\", () => {\r",
+							"    pm.expect(jsonData.entries[0].API).to.eql(\"AdoptAPet\");\r",
+							"});\r",
+							"\r",
+							"//printing Description from first object to console\r",
+							"console.log(jsonData.entries[0].Description);\r",
+							"\r",
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://api.publicapis.org/entries",
+					"protocol": "https",
+					"host": [
+						"api",
+						"publicapis",
+						"org"
+					],
+					"path": [
+						"entries"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
