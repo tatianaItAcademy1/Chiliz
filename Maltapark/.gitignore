@@ -1,19 +1,8 @@
 .gradle
-.properties
 
 bin
 
 Reports
-Plugins
-Libs
-Test Suites
-Data Files
-Checkpoints
-Keywords
-Test Listeners
-TestOps
-Include
-Plugins
 
 output
 
